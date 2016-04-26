@@ -1,0 +1,19 @@
+<!doctype html>
+<head>
+<title>Form</title>
+</head>
+<body>
+<form>
+Name:<input type="text" name="first name"><br>
+Contact:<input type="tel" name="number"><br>
+Gender:<input type="radio" name="gender" value="Male">Male
+		<input type="radio" name="gender" value="Female">Female<br>
+Password:<input type="password" name="password"><br>
+Age:<select name="age">	
+<option value="12-14">12-14</option>
+<option value="15-18" selected>15-18</option>
+<option value="19-25">19-25</option>
+</select><br>
+Submit:<input type="submit" value="submit"><br>
+</form>
+</body>
