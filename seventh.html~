@@ -1,0 +1,29 @@
+<!doctype html>
+<head><title>Testing 27th of April</title></head>
+<body>
+<form>
+Html5 data-list Form:
+<input name="browsers" type="text" list="browsers" id="browser" >
+<datalist id="browsers">
+<option value="chrome">chrome</option>
+<option value="firefox">firefox</option>
+<option value="internetexplorer">ie</option>
+<option value="opera">opera</option>
+</datalist>
+<br><hr>
+Html select:
+<select name="browsers">
+<option value="chrome">chrome</option>
+<option value="firefox">firefox</option>
+<option value="opera">opera</option>
+</select>
+<br><hr>
+testing <strong>(this part is not working although it is like same as above)</strong>
+<input name="browser2" id="browser2" list="browser2" type="text">
+<datalist id="browser2">
+<option value="gmail">gmail</option>
+<option value="hotmail">hotmail</option>
+<option value="yahoo">yahoo</option>
+</datalist>
+</body>
+</form>
