@@ -14,6 +14,9 @@ Age:<select name="age">
 <option value="15-18" selected>15-18</option>
 <option value="19-25">19-25</option>
 </select><br>
+TextArea:<textarea rows="2" cols="12"></textarea><br>
 Submit:<input type="submit" value="submit"><br>
+<button type="button" onclick="alert('Your Form is Being Updated')
+">Submit</button>
 </form>
 </body>
