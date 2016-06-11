@@ -13,10 +13,11 @@
         .facebook-logo {
             height: 100px;
             width: 400px;
+            float: left;
         }
         .login-right{
            text-align: right;
-           position: absolute;
+           float: right;
         }
         
     </style>
@@ -24,11 +25,11 @@
 
 <body>
     <div class="container1">
-        <img src="facebook_logo.png" class="facebook-logo" alt="facebook logo">
-        <form list="login-details" class="login-right">
+        <div class="facebook-logo"><img src="facebook_logo.png" alt="facebook logo"></div>
+        <div class="login-right"><form list="login-details">
             <input type="text" name="user name"><br>UserName</input>
             <input type="password" name="Password"><br>Password</input>
-            <sub><a href="#">Having Trouble?</a></sub>
+            <sub><a href="#">Having Trouble?</a></sub></div>
         </form>
     </div>
 
