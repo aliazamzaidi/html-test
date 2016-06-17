@@ -3,8 +3,5 @@
     <title>tenth</title>
 </head>
 <body>
-  <script>document.write("hello world")</script> 
-  <script type="text/javascript" >
-document.getElementById("demo").innerHTML = "Hello JavaScript";
-  <p id="demo">sdd</p>
+<script type="text/javascript" src="tenth.js" ></script>
 </body>
