@@ -1,0 +1,28 @@
+p.p1 {
+    color: blue;
+    font-size: 20px;
+}
+div.div1 {
+    margin: 15px 0px 0px 0px;
+    border-style: double;
+    border-width: 5px;
+    padding-left: 10px;
+border-color: red;
+border-bottom: dotted;
+border-bottom-left-radius: 13px;
+}
+div.div2 {
+    border-style: dotted;
+    padding: 2mm;
+    border-radius: 3cm;
+    background-color: lightblue;
+    max-width: 90px;
+    min-block-size: 40px;
+}
+div.div3 {
+    border: 1px solid black;
+    text-transform: capitalize;
+    padding: 0px;
+    margin-top: 13px;
+    text-indent: 20px;
+}
