@@ -1,0 +1,22 @@
+div.blue-bar{
+    height: 90px;
+    width: 100%;
+    background-color: #3a5795;
+}
+div.top{
+float: left;
+width: 50%;
+height: 90px;
+}
+img.fb_logo{
+width:350px;
+height: 90px;
+}
+div.e-form{
+    padding-left: 40%;
+}
+div.down{
+    width: 100%;
+    height: 100%;
+    background-color: lightblue;
+}
